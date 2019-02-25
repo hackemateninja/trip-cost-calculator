@@ -1,4 +1,4 @@
-# trip_coast_app
+# trip_cost_app
 
 A new Flutter application.
 
